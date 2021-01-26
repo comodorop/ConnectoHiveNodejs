@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hive-driver": "^0.1.4"
+    "async": "^3.2.0",
+    "hive-driver": "^0.1.4",
+    "jdbc": "^0.7.3"
   }
 }
